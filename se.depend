@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1548784798 source:c:\users\hp\desktop\se\compte.c
+	"header.h"
+
+1549036004 c:\users\hp\desktop\se\header.h
+	"header.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1549037187 source:c:\users\hp\desktop\se\donnees.c
+	"header.h"
+
+1549032195 source:c:\users\hp\desktop\se\fileopen2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1548858782 source:c:\users\hp\desktop\se\gestioncmp.c
+	"header.h"
+
+1549036996 source:c:\users\hp\desktop\se\main.c
+	"header.h"
+
+1548784798 source:c:\users\hp\desktop\se\menu.c
+	"header.h"
+
+1549036546 source:c:\users\hp\desktop\se\surveillance.c
+	"header.h"
+
+1548784798 source:c:\users\hp\desktop\ensias\projet c\compte.c
+	"header.h"
+
+1549036004 c:\users\hp\desktop\ensias\projet c\header.h
+	"header.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1549037187 source:c:\users\hp\desktop\ensias\projet c\donnees.c
+	"header.h"
+
+1548858782 source:c:\users\hp\desktop\ensias\projet c\gestioncmp.c
+	"header.h"
+
+1549037268 source:c:\users\hp\desktop\ensias\projet c\main.c
+	"header.h"
+
+1548784798 source:c:\users\hp\desktop\ensias\projet c\menu.c
+	"header.h"
+
+1549036546 source:c:\users\hp\desktop\ensias\projet c\surveillance.c
+	"header.h"
+

@@ -1,0 +1,12 @@
+ETTALBI	AHMED	Genie Logiciel	 
+EL FAKER	ABDELLAtif	Genie Logiciel	abdel.elfaker@gmail.com
+HAMYANI	Asmaa	Systemes Embarques	 
+SENHADJI	Mohamed	Web & Mobile Engineering	 
+JANATI	Mohammed	Ingenierie des systemes embarques	janati@ensias.com
+AMRANI	Ibrahim	Informatique et Aide a la Decision	ibrahim_amrani@yahoo.fr
+EL MANOUAR	Abdellah	Informatique et Aide a la Decision	abdel.aem@gmail.com
+AANTRI	Saadia	Langues et Communication	sad.aantri@gmail.com
+BAINA	Karim	Genie Logiciel	karim.baina@um5.ac.ma 
+ABIK	Mounia	Genie Logiciel	m.abik@um5s.net.ma
+RADOUANE	Mohamed	Ingenierie des systemes embarques	mohamed.radouane@um5.ac.ma 
+RACHID	AHMED	Genie Logiciel	ahmed_rachid@hotmail.fr
